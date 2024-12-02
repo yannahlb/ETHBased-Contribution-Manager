@@ -1,6 +1,4 @@
-# ETHBased-Contribution-Manager
-
-# Project: Function Frontend
+# Ethereum Based Contribution Manager
 
 This project demonstrates how to create a decentralized application (DApp) that allows users to deposit Ether (ETH) into a smart contract. The application enables users to contribute ETH to a contract, track the total contributions, view the last deposit date, and toggle the visibility of the connected wallet address.
 
