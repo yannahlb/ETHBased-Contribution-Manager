@@ -35,3 +35,8 @@ Reannah Lobaton
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+## Preview:
+
+![image](https://github.com/user-attachments/assets/17162488-e726-47dc-a63a-5cd7d9926804)
